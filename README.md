@@ -30,3 +30,5 @@ Na **Fase 3**, a solução evoluiu de um sistema de logs local para uma **Plataf
 3. **Motor de Machine Learning:** Integração de um algoritmo de classificação **Random Forest Classifier** (`scikit-learn`) treinado com bases históricas para prever em tempo real a cultura agrícola ideal com base nas características de solo e clima do ecossistema mapeado.
 
 ---
+
+<img width="1707" height="911" alt="image" src="https://github.com/user-attachments/assets/c0553f4c-5214-4a55-8432-2f3d73d195d6" />
